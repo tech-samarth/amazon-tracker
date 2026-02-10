@@ -49,7 +49,7 @@ npm install
 npm start
 ```
 
-Frontend → [http://localhost:3000](http://localhost:3000)
+Frontend → [https://tracksamazon.netlify.app](http://tracksamazon.netlify.app)
 
 ---
 
