@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Playwright
+.playwright/
+playwright-report/
+
+# OS
+.DS_Store
+
