@@ -8,7 +8,7 @@ Built with **FastAPI (Python)** + **React**.
 
 ---
 
-## ✨ Features
+## ✨Features
 
 * 📦 Product details (price, MRP, discount, seller, delivery, reviews)
 * 📈 Interactive price history graph
